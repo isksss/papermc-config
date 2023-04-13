@@ -1,0 +1,26 @@
+## ignore
+paper.jar
+versions/
+plugins/
+logs/
+server-icon.png
+cache/
+libraries/
+
+world/
+world_nether/
+world_the_end/
+
+.console_history
+banned-ips.json
+banned-players.json
+ops.json
+
+usercache.json
+version_history.json
+whitelist.json
+
+permissions.yml
+
+!eula.txt
+!server.properties
